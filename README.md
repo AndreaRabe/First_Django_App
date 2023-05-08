@@ -12,10 +12,10 @@ Install dependencies using pip package manager
 pip install -r requirement.txt
 ```
 
-##Configuration
+## Configuration
 configure your database with postgresql : modify DATABASES setting in 'settings.py' file
 
-##Start Projet
+## Start Projet
 To start project 
 ```
 python manage.py migrate
